@@ -1,10 +1,10 @@
 ---
 title: "Agile Open France"
 featured_image: "/img/rendez_vous.jpg"
-description: "Coder ensemble, apprendre de tou·te·s"
+description: "Tester c'est douter"
 ---
 
-L'AOF25 a lieu du 28 au 31 janvier 2025 et aura pour thème [« Coder ensemble, apprendre de tou·te·s »](/esprit/). Mais [cela ne veut pas dire qu'il faut être « tech » pour participer.](/premiere/#faut-il-être-tech-pour-participer-)
+L'AOF25 a lieu du 27 au 30 janvier 2026 et aura pour thème [« Tester c'est douter »](/esprit/). Et [cela ne veut pas dire qu'il faut être « tech » pour participer.](/premiere/#faut-il-être-tech-pour-participer-)
 
 Encore jamais participé ? [Bienvenue !](premiere)
 
