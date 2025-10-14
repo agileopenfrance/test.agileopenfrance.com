@@ -22,7 +22,7 @@ Rien à préparer.
 Tout ce qu'il sera nécessaire de savoir sur le déroulement sera expliqué au début de l'événement.
 (Si tu es curieux·se, tu peux lire la page wikipedia sur le [Forum Ouvert](https://fr.wikipedia.org/wiki/M%C3%A9thodologie_Forum_Ouvert), mais ce n'est vraiment pas nécessaire).
 
-Tout au plus, peux-tu dès maintenant réfléchir aux sujets que tu voudras peut-être aborder, ou juste voir comment tu voudrais machouiller le théme « Coder ensemble, apprendre de tou·te·s » pour l'élargir le plus possible - mais ce n'est pas non plus nécessaire.
+Tout au plus, peux-tu dès maintenant réfléchir aux sujets que tu voudras peut-être aborder, ou juste voir comment tu voudrais machouiller le thème « Tester c'est douter » pour l'élargir le plus possible - mais ce n'est pas non plus nécessaire.
 
 Plutôt : pense à prendre des vêtements chauds pour profiter des balades dans les
 vignes, et un maillot de bain pour la piscine. 
@@ -37,7 +37,7 @@ compte, c'est qu'il te passionne.  Qu'il s'agisse de sujets dont on est
 expert·e, ou sur lequel on n'a qu'une curiosité naissante. Une question
 ouverte, ou un objet bien spécifique. Une préoccupation grave ou une fantaisie légère.
 
-Et pourtant, cette année nous avons proposé la thématique «  Coder ensemble, apprendre de tou·te·s ». Que risque-t-il de se passer si ton sujet ne rentre pas dans la thématique ? Déjà, personne n'est légitime pour savoir si ça rentre ou pas. Cette thématique est là pour aider les participant·es à donner un léger sens à leur venue, pas pour imposer une norme. Et de toutes façons, il ne se passera rien de grave ! Peut-être qu'il n'y aura pas grand monde à ton activité, mais tu y seras sûrement avec une des personnes qui comptent le plus pour toi : toi-même. Et tu t'auras fait le cadeau d'un peu de temps pour parler d'un truc important pour toi. Et si ça se trouve, cela donnera envie à d'autres participant·es de venir échanger sur ce sujet dans d'autres circonstances, autour d'un plat ou d'un verre, d'un café, lors d'une balade...
+Et pourtant, cette année nous avons proposé la thématique « Tester c'est douter ». Que risque-t-il de se passer si ton sujet ne rentre pas dans la thématique ? Déjà, personne n'est légitime pour savoir si ça rentre ou pas. Cette thématique est là pour aider les participant·es à donner un léger sens à leur venue, pas pour imposer une norme. Et de toutes façons, il ne se passera rien de grave ! Peut-être qu'il n'y aura pas grand monde à ton activité, mais tu y seras sûrement avec une des personnes qui comptent le plus pour toi : toi-même. Et tu t'auras fait le cadeau d'un peu de temps pour parler d'un truc important pour toi. Et si ça se trouve, cela donnera envie à d'autres participant·es de venir échanger sur ce sujet dans d'autres circonstances, autour d'un plat ou d'un verre, d'un café, lors d'une balade...
 
 En tous cas, ce sont souvent les sujets qu'on hésite le plus à proposer qui entraînent les rencontres
 les plus passionnantes. 

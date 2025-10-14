@@ -44,19 +44,19 @@ contrôle que chaque participant·e est muni·e d'un pass sanitaire).
 
 ### Concernant le car
 
-(oui, ces information on bien été mises à jour pour 2025)
+(oui, ces information on bien été mises à jour pour 2026)
 
 Un car sera affrété pour conduire les participant·e·s de la gare SNCF de
 Strasbourg à l'Hôtel Arnold, puis à la fin de l'événement de l'hôtel à la gare
 SNCF de Strasbourg. 
 
-**À l'aller**, le car partira de la gare de Strasbourg **le mardi 28
+**À l'aller**, le car partira de la gare de Strasbourg **le mardi 27
 janvier à 13h15**, et attendra au besoin l'arrivée du train ICE 9573 en
-provenance de Paris (qui devrait théoriquement arriver à Strasbourg à 12h39).
+provenance de Paris (qui devrait théoriquement arriver à Strasbourg à 12h29).
 
-**Au retour**, le car partira de Itterswiller **le vendredi 31 janvier** après le
-déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le train ICE pour Paris de **16h27** 
-et donc aussi le TGV INOUI 2442 pour Paris de **16h49** s'il te convient mieux.
+**Au retour**, le car partira de Itterswiller **le vendredi 30 janvier** après le
+déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le train ICE 9572 pour Paris de **16h31** 
+et donc aussi le TGV INOUI 2442 pour Paris de **16h44** s'il te convient mieux.
 
 ---
 

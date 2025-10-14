@@ -5,7 +5,7 @@ featured_image: "/img/inscription.jpg"
 menu: "main"
 ---
 
-Les [inscriptions](inscription) ouvrent **mardi 17 décembre à 07h00**.
+Les [inscriptions](inscription) ouvrent bientôt (date à définir)).
 
 Plus de détails sur les tarifs figurent en bas de page.
 
@@ -67,7 +67,7 @@ tu dois réserver deux billets :
 - un billet simple (pro ou perso, première fois ou non)
 - un billet conjoint·e
 
-NB : un billet conjoint·e n’est valable qu’en complément d’un billet simple (pro ou perso, première fois ou non).
+NB : un billet conjoint·e n’est valable qu’en complément d’un billet simple (pro ou perso).
 
 #### Billet de contribution au Fonds Solidaire d'Invitation 
 
@@ -78,7 +78,7 @@ profils et des intérêts des participant·es avec lesquel·les tu vas vivre l'�
 
 #### Bénéficier d'un tarif réduit
 
-Si tu n'as pas les ressources pour financer un billet, n'hésite pas à [nous
+Si tu te considères en situation financières difficiles, tu peux choisir le tarif solidaire correspondant à ta situation Pro ou Particulier. Et si tu n'as pas les ressources pour financer un billet, n'hésite pas à [nous
 contacter](mailto:staff@agileopenfrance.com) pour nous faire par de ta
 situation.
 
@@ -87,7 +87,7 @@ situation.
 ### Remboursement
 
 Si un événement malheureux t'empêchait de participer, tu peux demander
-un remboursement (en le justifiant), mais seulement **avant le 31 décembre 2024**.
+un remboursement (en le justifiant), mais seulement **avant le 31 décembre 2025**.
 
 Si un nouveau confinement nécessitait l'annulation de l'événement, tu pourras
 choisir entre te faire rembourser, ou réserver une place à la prochaine
