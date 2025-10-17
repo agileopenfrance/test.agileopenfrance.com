@@ -77,7 +77,7 @@ profils et des intérêts des participant·es avec lesquel·les tu vas vivre l'�
 
 #### Bénéficier d'un tarif réduit
 
-Si les finances, tu peux choisir le tarif solidaire correspondant à ta situation Pro ou Particulier.
+Si toi ou ta TPE vous trouvez en situation financière délicate, tu peux choisir le tarif solidaire correspondant à ta situation Pro ou Particulier.
 Si toutefois ces prix rendent l'événement inaccessible pour toi, 
 [contacte-nous](mailto:staff@agileopenfrance.com) ! Des billets suspendus sont disponibles.
 

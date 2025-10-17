@@ -47,6 +47,7 @@ contrôle que chaque participant·e est muni·e d'un pass sanitaire).
 ### Concernant le car
 
 (oui, ces information on bien été mises à jour pour 2026)
+(oui, ces information on bien été mises à jour pour 2026)
 
 Un car sera affrété pour conduire les participant·e·s de la gare SNCF de
 Strasbourg à l'Hôtel Arnold, puis à la fin de l'événement de l'hôtel à la gare
