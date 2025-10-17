@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://agileopenfrance.com/inscription/</loc>
+    <loc>https://pre.agileopenfrance.com/inscription/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://agileopenfrance.com/pratique/</loc>
+    <loc>https://pre.agileopenfrance.com/pratique/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://agileopenfrance.com/esprit/</loc>
+    <loc>https://pre.agileopenfrance.com/esprit/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://agileopenfrance.com/inviter/</loc>
+    <loc>https://pre.agileopenfrance.com/inviter/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://agileopenfrance.com/premiere/</loc>
+    <loc>https://pre.agileopenfrance.com/premiere/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://agileopenfrance.com/conduite/</loc>
+    <loc>https://pre.agileopenfrance.com/conduite/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://agileopenfrance.com/</loc>
+    <loc>https://pre.agileopenfrance.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://agileopenfrance.com/categories/</loc>
+    <loc>https://pre.agileopenfrance.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://agileopenfrance.com/tags/</loc>
+    <loc>https://pre.agileopenfrance.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
