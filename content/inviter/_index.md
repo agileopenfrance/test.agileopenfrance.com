@@ -48,7 +48,7 @@ d'organisation d'être informée de votre intention, et de vous proposer son
 aide. Et ça te permettra aussi de te faire le cadeau de formaliser toutes les 
 bonnes choses que tu trouves chez cette personnes.
 
-Si tu es en mesure de le faire, prends contact la personne que tu souhaites
+Si tu es en mesure de le faire, prends contact avec la personne que tu souhaites
 convier. Sinon, tu peux en parler [à l'équipe
 d'organisation](mailto:staff@agileopenfrance.com).
 
@@ -66,16 +66,14 @@ les contourner. Merci de participer à cette exploration en faisant part de vos
 difficultés et de vos doutes [à l'équipe d'organisation](mailto:staff@agileopenfrance.com), et elle fera de son mieux
 pour participer à l'effort.
 
-# C'est quoi, le Fonds Solidaire d'Invitation ?
+# C'est quoi, les billets suspendus ?
 
-Le Fonds Solidaire d'Invitation est un compte, alimenté par les participant·e·s,
-qui permet à son tour de financer (ou de cofinancer) le séjour de certaines personnes 
-qui ne peuvent le faire matériellement.
+Les billets suspendus sont des billets financés par les autres participants, permettant de financer 
+(ou de cofinancer) le séjour de certaines personnes qui ne peuvent le faire matériellement.
 
-L'équipe d'organisation gère ce compte.  S'il n'est pas utilisé pleinement, le
-reliquat du Fonds Solidaire d'Invitation sera utilisé pour une édition à venir de l'AOF.
-Par exemple, le fonds de 2024 a complètement été utilisé.
+L'équipe d'organisation gère ces billets.  S'ils ne sont pas tous distribués, le
+reliquat sera utilisé pour une édition à venir de l'AOF.
+Par exemple, les billets suspendus de 2024 et de 2025 ont complètement été distribués.
 
-Le fonds est lui même financé via la billetterie, par l'achat de "billet de
-participation au Fonds Solidaire d'Invitation", et par le surcoût éventuel des
-autres billets.
+Ses billets sont financés via la billetterie, par l'achat de "billets
+suspendus", et par le surcoût éventuel des autres billets.

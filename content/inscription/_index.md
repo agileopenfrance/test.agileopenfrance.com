@@ -69,18 +69,17 @@ tu dois réserver deux billets :
 
 NB : un billet conjoint·e n’est valable qu’en complément d’un billet simple (pro ou perso).
 
-#### Billet de contribution au Fonds Solidaire d'Invitation 
+#### Billet suspendu
 
-Si tu le souhaites, tu peux contribuer au 
-[Fonds Solidaire d'Invitation](/inviter/#cest-quoi-le-fonds-commun-dinvitation-), et ainsi favoriser les
+Si tu le souhaites, tu peux acheter des parts de [billets suspendus](/inviter/#cest-quoi-les-billets-suspendus-), et ainsi favoriser les
 chances de participer à un événement plus riche, grâce à une variété accrue des
 profils et des intérêts des participant·es avec lesquel·les tu vas vivre l'événement.
 
 #### Bénéficier d'un tarif réduit
 
-Si tu te considères en situation financières difficiles, tu peux choisir le tarif solidaire correspondant à ta situation Pro ou Particulier. Et si tu n'as pas les ressources pour financer un billet, n'hésite pas à [nous
-contacter](mailto:staff@agileopenfrance.com) pour nous faire par de ta
-situation.
+Si les finances, tu peux choisir le tarif solidaire correspondant à ta situation Pro ou Particulier.
+Si toutefois ces prix rendent l'événement inaccessible pour toi, 
+[contacte-nous](mailto:staff@agileopenfrance.com) ! Des billets suspendus sont disponibles.
 
 ---
 

@@ -27,7 +27,9 @@ prend le car dédié à l'événement (cf info plus bas).
 Des spécialités alsaciennes !
 
 Si tu as un régime alimentaire spécifique, pas de problème : il suffit d'en
-parler au restaurant le jour de ton arrivée.
+parler au restaurant le jour de ton arrivée, l'équipe de restauration a l'habitude.
+Si ton régime est très spécifique (fodmaps etc.) tu peux nous en parler un peu plus
+en amont et être particulièrement chouchouté·e.
 
 ### Comment je m'habille ?
 
@@ -51,10 +53,10 @@ Strasbourg à l'Hôtel Arnold, puis à la fin de l'événement de l'hôtel à la
 SNCF de Strasbourg. 
 
 **À l'aller**, le car partira de la gare de Strasbourg **le mardi 27
-janvier à 13h15**, et attendra au besoin l'arrivée du train ICE 9573 en
+janvier 2026 à 13h15**, et attendra au besoin l'arrivée du train ICE 9573 en
 provenance de Paris (qui devrait théoriquement arriver à Strasbourg à 12h29).
 
-**Au retour**, le car partira de Itterswiller **le vendredi 30 janvier** après le
+**Au retour**, le car partira de Itterswiller **le vendredi 30 janvier 2026** après le
 déjeuner, pour permettre à celles et ceux qui le souhaitent de prendre le train ICE 9572 pour Paris de **16h31** 
 et donc aussi le TGV INOUI 2442 pour Paris de **16h44** s'il te convient mieux.
 
